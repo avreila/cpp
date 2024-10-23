@@ -10,7 +10,8 @@ using std::cin;
 int main() {
     setlocale(LC_ALL, "RU");
   
-
+    int res = 10;
+    cout << res;
     return 0;
 
 }

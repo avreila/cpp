@@ -1,0 +1,13 @@
+.vs/
+3.sln
+3/3.vcxproj
+3/3.vcxproj.filters
+3/3.vcxproj.user
+3/x64/
+x64/
+.sass
+/bin
+/admin
+.config
+config.txt
+logs/
